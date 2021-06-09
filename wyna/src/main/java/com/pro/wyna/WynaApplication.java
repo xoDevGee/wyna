@@ -1,4 +1,4 @@
-package com.spring.wyna;
+package com.pro.wyna;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
