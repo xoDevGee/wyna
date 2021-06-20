@@ -1,0 +1,32 @@
+@font-face {
+  font-family: 'Wemakeprice-Regular';
+  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_20-10-21@1.0/Wemakeprice-Regular.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+#tblCard {
+  font-family: 'Wemakeprice-Regular';
+  font-size: 22px;
+  width: 1080px;
+  height: 600px;
+  margin: 20px;
+}
+
+#imgLogo {
+  width: 100%;
+  height: auto;
+}
+
+.tr1 {
+  line-height: 30px;
+  padding: 0;
+}
+
+.tr2{
+  line-height: 30px;
+}
+
+.tr3 {
+  text-align: justify;
+  color: #ffaa22;
+}
