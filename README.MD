@@ -1,6 +1,8 @@
 # What You Need App? #
 
 # FE #
+HTML5
+CSS
 REACT
 BOOTSTRAP
 
